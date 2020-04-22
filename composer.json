@@ -3,7 +3,6 @@
     "description": "just a demo",
     "type": "lib",
     "require": {
-        "swiftmailer/swiftmailer": "using version ^6.0 for phpmailer/phpmailer"
     },
     "license": "mit",
     "authors": [
